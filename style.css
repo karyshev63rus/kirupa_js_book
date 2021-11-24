@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+}
+#btn {
+    font-size: 2.5rem;
+    background-color: gainsboro;
+}
+#btn:hover {
+    background-color:cadetblue;
+}
